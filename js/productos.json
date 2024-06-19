@@ -7,7 +7,7 @@
             "nombre": "VAPERS bb <3",
             "id": "vapers"
         },
-        "precio": 32000
+        "precio": 35000
     },
     {
         "id": "vaper-02",
@@ -17,7 +17,7 @@
             "nombre": "Vaporesso GTX Go 80",
             "id": "vapers"
         },
-        "precio": 1000
+        "precio": 33000
     },
     {
         "id": "vaper-03",
@@ -27,7 +27,7 @@
             "nombre": "LUXE",
             "id": "vapers"
         },
-        "precio": 1000
+        "precio": 80000
     },
     {
         "id": "vaper-04",
@@ -37,7 +37,7 @@
             "nombre": "go 40",
             "id": "vapers"
         },
-        "precio": 1000
+        "precio": 35000
     },
     {
         "id": "vaper-05",
@@ -47,7 +47,7 @@
             "nombre": "go 80",
             "id": "vapers"
         },
-        "precio": 1000
+        "precio":  35000
     },
     {
         "id": "liquidoimport-01",
@@ -57,17 +57,17 @@
             "nombre": "LIQUIDS IMPORTS",
             "id": "liquid-import"
         },
-        "precio": 1000
+        "precio": 20000
     },
     {
         "id": "liquidoimport-02",
-        "titulo": "ZOMO ICE BUBBLEGUM",
+        "titulo": "ZOMO ICE GRAPE",
         "imagen": "./img/liquidos-importados/zomoicegrape.jpg",
         "categoria": {
             "nombre": "Camisetas",
             "id": "liquid-import"
         },
-        "precio": 1000
+        "precio": 20000
     },
     {
         "id": "liquidoimport-03",
@@ -77,7 +77,7 @@
             "nombre": "ZOMO ICE BURSTBERRIES",
             "id": "liquid-import"
         },
-        "precio": 1000
+        "precio": 20000
     },
     {
         "id": "liquidoimport-04",
@@ -87,17 +87,17 @@
             "nombre": "Camisetas",
             "id": "liquid-import"
         },
-        "precio": 1000
+        "precio": 20000
     },
     {
         "id": "liquidoimport-05",
-        "titulo": "ZOMO ICE WATERMELON",
+        "titulo": "ZOMO PASSION FRUIT",
         "imagen": "./img/liquidos-importados/passionfruitzomo.jpg",
         "categoria": {
             "nombre": "Camisetas",
             "id": "liquid-import"
         },
-        "precio": 1000
+        "precio":  20000
     },
     {
         "id": "liquidoimport-06",
@@ -107,7 +107,7 @@
             "nombre": "Camisetas",
             "id": "liquid-import"
         },
-        "precio": 1000
+        "precio": 20000
     },
     {
         "id": "liquidoimport-07",
@@ -117,7 +117,7 @@
             "nombre": "Camisetas",
             "id": "liquid-import"
         },
-        "precio": 1000
+        "precio": 20000
     },
     {
         "id": "liquidoimport-08",
@@ -127,7 +127,7 @@
             "nombre": "ZOMO NASTY GRAPE",
             "id": "liquid-import"
         },
-        "precio": 1000
+        "precio": 20000
     },
     {
         "id": "liquidoimport-09",
@@ -137,7 +137,7 @@
             "nombre": "Camisetas",
             "id": "liquid-import"
         },
-        "precio": 1000
+        "precio": 20000
     },
     {
         "id": "liquidoimport-10",
@@ -147,7 +147,7 @@
             "nombre": "Camisetas",
             "id": "liquid-import"
         },
-        "precio": 1000
+        "precio": 24000
     },
     {
         "id": "liquidoimport-11",
@@ -157,7 +157,7 @@
             "nombre": "Camisetas",
             "id": "liquid-import"
         },
-        "precio": 1000
+        "precio": 24000
     },
     {
         "id": "liquidoimport-12",
@@ -167,7 +167,7 @@
             "nombre": "Camisetas",
             "id": "liquid-import"
         },
-        "precio": 1000
+        "precio": 20000
     },
     {
         "id": "nacional-01",
