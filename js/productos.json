@@ -248,5 +248,187 @@
             "id": "liquid-nacional"
         },
         "precio": 11500
+    },
+    {
+        "id": "resistencia-01",
+        "titulo": "Coil Vaporesso Gtx 0.15 ohm",
+        "imagen": "./img/resistencia/resistenciagtx015.jpg",
+        "categoria": {
+            "nombre": "Resistencias | Coils",
+            "id": "resistencia"
+        },
+        "precio": 8600
+    },
+    {
+        "id": "resistencia-02",
+        "titulo": "Coil Vaporesso Gtx 0.2 ohm",
+        "imagen": "./img/resistencia/coil02.jpg",
+        "categoria": {
+            "nombre": "Resistencia",
+            "id": "resistencia"
+        },
+        "precio": 8600
+    },
+    {
+        "id": "resistencia-03",
+        "titulo": "Coil Vaporesso Gtx 0.3 ohm",
+        "imagen": "./img/resistencia/coil03.jpg",
+        "categoria": {
+            "nombre": "Resistencia",
+            "id": "resistencia"
+        },
+        "precio": 8600
+    },
+    {
+        "id": "resistencia-04",
+        "titulo": "Coil Vaporesso Gtx 0.6 ohm",
+        "imagen": "./img/resistencia/coil06.jpg",
+        "categoria": {
+            "nombre": "Resistencia",
+            "id": "resistencia"
+        },
+        "precio": 8600
+    },
+    {
+        "id": "resistencia-04",
+        "titulo": "Coil Eleaf Gtx 0.3 ohm",
+        "imagen": "./img/resistencia/eleaf.jpg",
+        "categoria": {
+            "nombre": "Resistencia",
+            "id": "resistencia"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "resistencia-05",
+        "titulo": "Pyrex Burbuja",
+        "imagen": "./img/resistencia/pyrexburbuja.jpg",
+        "categoria": {
+            "nombre": "Resistencia",
+            "id": "resistencia"
+        },
+        "precio": 8600
+    },
+    {
+        "id": "resistencia-06",
+        "titulo": "Pyrex Recto",
+        "imagen": "./img/resistencia/pyrexrecto.jpg",
+        "categoria": {
+            "nombre": "Resistencia",
+            "id": "resistencia"
+        },
+        "precio": 8600
+    },
+    {
+        "id": "resistencia-07",
+        "titulo": "Coil Voopoo Pnp vm6 0.15 ohm",
+        "imagen": "./img/resistencia/pnp.jpg",
+        "categoria": {
+            "nombre": "Coil Voopoo Pnp vm6 0.15 ohm",
+            "id": "resistencia"
+        },
+        "precio": 8600
+    },
+    {
+        "id": "resistencia-08",
+        "titulo": "Gtx tank pod 22",
+        "imagen": "./img/resistencia/tankpod22.jpg",
+        "categoria": {
+            "nombre": "Resistencia",
+            "id": "resistencia"
+        },
+        "precio": 8600
     }
+    ,
+    {
+        "id": "resistencia-08",
+        "titulo": "Gtx tank pod 26",
+        "imagen": "./img/resistencia/tankpod26.jpg",
+        "categoria": {
+            "nombre": "Resistencia",
+            "id": "resistencia"
+        },
+        "precio": 8600
+    },
+    {
+        "id": "resistencia-08",
+        "titulo": "Coil Vaporesso GT Mesh 0.18 ohm",
+        "imagen": "./img/resistencia/coilmesh.jpg",
+        "categoria": {
+            "nombre": "Resistencia",
+            "id": "resistencia"
+        },
+        "precio": 8600
+    },
+    {
+        "id": "resistencia-08",
+        "titulo": "Coil Smok Stick V8 m2 0.15 ohm",
+        "imagen": "./img/resistencia/smokv8.jpg",
+        "categoria": {
+            "nombre": "Resistencia",
+            "id": "resistencia"
+        },
+        "precio": 9600
+    },
+    {
+        "id": "resistencia-08",
+        "titulo": " Coil Vaporesso GTI 0.2 ohm  ",
+        "imagen": "./img/resistencia/vapogti.jpg",
+        "categoria": {
+            "nombre": "Resistencia",
+            "id": "resistencia"
+        },
+        "precio": 9600
+    },
+    {
+        "id": "resistencia-08",
+        "titulo": " Coil Smok Vape Pen 22 0.3 ohm  ",
+        "imagen": "./img/resistencia/smokpen.jpg",
+        "categoria": {
+            "nombre": "Resistencia",
+            "id": "resistencia"
+        },
+        "precio": 9600
+    },
+    {
+        "id": "resistencia-08",
+        "titulo": " Coil Smok Novo 1.5 ohm  ",
+        "imagen": "./img/resistencia/smoknovo.jpg",
+        "categoria": {
+            "nombre": "Resistencia",
+            "id": "resistencia"
+        },
+        "precio": 9600
+    },
+    {
+        "id": "resistencia-08",
+        "titulo": " CARTUCHO VAPORESSO XR MAX ",
+        "imagen": "./img/resistencia/xrmax.jpg",
+        "categoria": {
+            "nombre": "Resistencia",
+            "id": "resistencia"
+        },
+        "precio": 9600
+    },
+    {
+        "id": "resistencia-08",
+        "titulo": " Coil Voopoo TTP-DM1 0.15 ohm ",
+        "imagen": "./img/resistencia/voopoottp.jpg",
+        "categoria": {
+            "nombre": "Resistencia",
+            "id": "resistencia"
+        },
+        "precio": 9600
+    },
+    {
+        "id": "resistencia-08",
+        "titulo": " Coil Uwell Nunchaku 0.25 ohm",
+        "imagen": "./img/resistencia/uwell.jpg",
+        "categoria": {
+            "nombre": "Resistencia",
+            "id": "resistencia"
+        },
+        "precio": 9600
+    }
+    
 ]
