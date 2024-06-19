@@ -171,7 +171,7 @@
     },
     {
         "id": "nacional-01",
-        "titulo": "Pantalón 01",
+        "titulo": "LIQUID NACIONAL",
         "imagen": "./img/pantalones/01.jpg",
         "categoria": {
             "nombre": "Pantalones",
@@ -181,7 +181,7 @@
     },
     {
         "id": "nacional-02",
-        "titulo": "Pantalón 02",
+        "titulo": "LIQUID NACIONAL",
         "imagen": "./img/pantalones/02.jpg",
         "categoria": {
             "nombre": "Pantalones",
@@ -201,7 +201,7 @@
     },
     {
         "id": "nacional-04",
-        "titulo": "Pantalón 04",
+        "titulo": "LIQUID NACIONAL",
         "imagen": "./img/pantalones/04.jpg",
         "categoria": {
             "nombre": "Pantalones",
@@ -211,7 +211,7 @@
     },
     {
         "id": "nacional-05",
-        "titulo": "",
+        "titulo": "LIQUID NACIONAL",
         "imagen": "./img/pantalones/04.jpg",
         "categoria": {
             "nombre": "Pantalones",
@@ -221,7 +221,7 @@
     },
     {
         "id": "nacional-06",
-        "titulo": "Pantalón 04",
+        "titulo": "LIQUID NACIONAL",
         "imagen": "./img/pantalones/04.jpg",
         "categoria": {
             "nombre": "Pantalones",
@@ -231,7 +231,7 @@
     },
     {
         "id": "nacional-07",
-        "titulo": "Pantalón 04",
+        "titulo": "LIQUID NACIONAL",
         "imagen": "./img/pantalones/04.jpg",
         "categoria": {
             "nombre": "Pantalones",
@@ -241,7 +241,7 @@
     },
     {
         "id": "nacional-08",
-        "titulo": "Pantalón 05",
+        "titulo": "LIQUID NACIONAL",
         "imagen": "./img/pantalones/05.jpg",
         "categoria": {
             "nombre": "Pantalones",
