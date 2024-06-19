@@ -131,7 +131,7 @@
     },
     {
         "id": "liquidoimport-09",
-        "titulo": "Camiseta 08",
+        "titulo": "Zomo iceburst berries ice",
         "imagen": "./img/liquidos-importados/zomoiceburstberriesice.jpg",
         "categoria": {
             "nombre": "Camisetas",
@@ -140,8 +140,8 @@
         "precio": 20000
     },
     {
-        "id": "liquidoimport-10",
-        "titulo": "Camiseta 08",
+        "id": "liquid-import-10",
+        "titulo": "Puddin King Rice Pudding -King Crest",
         "imagen": "./img/liquidos-importados/puddinking.jpg",
         "categoria": {
             "nombre": "Camisetas",
@@ -150,8 +150,8 @@
         "precio": 24000
     },
     {
-        "id": "liquidoimport-11",
-        "titulo": "Camiseta 08",
+        "id": "liquid-import-11",
+        "titulo": "KrIspy King Marshmallow - King Crest",
         "imagen": "./img/liquidos-importados/krspymarshmellow.jpg",
         "categoria": {
             "nombre": "Camisetas",
@@ -161,7 +161,7 @@
     },
     {
         "id": "liquidoimport-12",
-        "titulo": "Camiseta 08",
+        "titulo": "NASTY CUSHMAN MANGO STRAWBERRY",
         "imagen": "./img/liquidos-importados/nastycushman-mango-strawberry.jpg",
         "categoria": {
             "nombre": "Camisetas",
@@ -171,82 +171,82 @@
     },
     {
         "id": "nacional-01",
-        "titulo": "LIQUID NACIONAL",
-        "imagen": "./img/pantalones/01.jpg",
+        "titulo": "Receta Del Cheff",
+        "imagen": "./img/liquidos-nacionales/delchef.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "liquid-nacional"
         },
-        "precio": 1000
+        "precio": 8500
     },
     {
         "id": "nacional-02",
-        "titulo": "LIQUID NACIONAL",
-        "imagen": "./img/pantalones/02.jpg",
+        "titulo": "MK",
+        "imagen": "./img/liquidos-nacionales/mk10.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "liquid-nacional"
         },
-        "precio": 1000
+        "precio": 10000
     },
     {
         "id": "nacional-03",
-        "titulo": "Pantalón 03",
-        "imagen": "./img/pantalones/03.jpg",
+        "titulo": "Full Steam",
+        "imagen": "./img/liquidos-nacionales/fullsteam8k.jpg",
         "categoria": {
-            "nombre": "Pantalones",
+            "nombre": "Full Steam",
             "id": "liquid-nacional"
         },
-        "precio": 1000
+        "precio": 8000
     },
     {
         "id": "nacional-04",
-        "titulo": "LIQUID NACIONAL",
-        "imagen": "./img/pantalones/04.jpg",
+        "titulo": "Jack Vapers",
+        "imagen": "./img/liquidos-nacionales/jackvape.jpg",
         "categoria": {
-            "nombre": "Pantalones",
+            "nombre": "Jack Vapers",
             "id": "liquid-nacional"
         },
-        "precio": 1000
+        "precio": 8000
     },
     {
         "id": "nacional-05",
-        "titulo": "LIQUID NACIONAL",
-        "imagen": "./img/pantalones/04.jpg",
+        "titulo": "The Alchemist",
+        "imagen": "./img/liquidos-nacionales/alchemist8k.jpg",
         "categoria": {
-            "nombre": "Pantalones",
+            "nombre": "the alchemist",
             "id": "liquid-nacional"
         },
-        "precio": 1000
+        "precio": 8500
     },
     {
         "id": "nacional-06",
-        "titulo": "LIQUID NACIONAL",
-        "imagen": "./img/pantalones/04.jpg",
+        "titulo": "MVH",
+        "imagen": "./img/liquidos-nacionales/mvh.jpg",
         "categoria": {
-            "nombre": "Pantalones",
+            "nombre": "mvh",
             "id": "liquid-nacional"
         },
-        "precio": 1000
+        "precio": 12000
     },
     {
         "id": "nacional-07",
-        "titulo": "LIQUID NACIONAL",
-        "imagen": "./img/pantalones/04.jpg",
+        "titulo": "Seven Sins",
+        "imagen": "./img/liquidos-nacionales/sevensins.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "liquid-nacional"
         },
-        "precio": 1000
+        "precio": 14000
     },
     {
         "id": "nacional-08",
-        "titulo": "LIQUID NACIONAL",
-        "imagen": "./img/pantalones/05.jpg",
+        "titulo": "DNS",
+        "imagen": "./img/liquidos-nacionales/dns12.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "liquid-nacional"
         },
-        "precio": 1000
+        "precio": 11500
     }
 ]
