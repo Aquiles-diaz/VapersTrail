@@ -4,7 +4,7 @@
         "titulo": "Sky Solo Plus",
         "imagen": "./img/kits-de-inicio/skysolopluss.jpg",
         "categoria": {
-            "nombre": "VAPERS bb <3",
+            "nombre": "VAPERS bb <3 ENVIO GRATIS",
             "id": "vapers"
         },
         "precio": 35000
@@ -17,7 +17,7 @@
             "nombre": "Vaporesso GTX Go 80",
             "id": "vapers"
         },
-        "precio": 33000
+        "precio": 35000
     },
     {
         "id": "vaper-03",
@@ -247,7 +247,7 @@
             "nombre": "Pantalones",
             "id": "liquid-nacional"
         },
-        "precio": 11500
+        "precio": 12500
     },
     {
         "id": "resistencia-01",
@@ -257,7 +257,7 @@
             "nombre": "Resistencias | Coils",
             "id": "resistencia"
         },
-        "precio": 8600
+        "precio": 11500
     },
     {
         "id": "resistencia-02",
@@ -267,7 +267,7 @@
             "nombre": "Resistencia",
             "id": "resistencia"
         },
-        "precio": 8600
+        "precio": 11600
     },
     {
         "id": "resistencia-03",
@@ -277,7 +277,7 @@
             "nombre": "Resistencia",
             "id": "resistencia"
         },
-        "precio": 8600
+        "precio": 10300
     },
     {
         "id": "resistencia-04",
@@ -287,7 +287,7 @@
             "nombre": "Resistencia",
             "id": "resistencia"
         },
-        "precio": 8600
+        "precio": 10600
     },
     {
         "id": "resistencia-04",
@@ -307,7 +307,7 @@
             "nombre": "Resistencia",
             "id": "resistencia"
         },
-        "precio": 8600
+        "precio": 13500
     },
     {
         "id": "resistencia-06",
@@ -317,7 +317,7 @@
             "nombre": "Resistencia",
             "id": "resistencia"
         },
-        "precio": 8600
+        "precio": 10600
     },
     {
         "id": "resistencia-07",
@@ -337,7 +337,7 @@
             "nombre": "Resistencia",
             "id": "resistencia"
         },
-        "precio": 8600
+        "precio": 18600
     }
     ,
     {
@@ -348,7 +348,7 @@
             "nombre": "Resistencia",
             "id": "resistencia"
         },
-        "precio": 8600
+        "precio": 17500
     },
     {
         "id": "resistencia-08",
@@ -368,7 +368,7 @@
             "nombre": "Resistencia",
             "id": "resistencia"
         },
-        "precio": 9600
+        "precio": 10600
     },
     {
         "id": "resistencia-08",
@@ -378,7 +378,7 @@
             "nombre": "Resistencia",
             "id": "resistencia"
         },
-        "precio": 9600
+        "precio": 11600
     },
     {
         "id": "resistencia-08",
@@ -388,7 +388,7 @@
             "nombre": "Resistencia",
             "id": "resistencia"
         },
-        "precio": 9600
+        "precio": 12600
     },
     {
         "id": "resistencia-08",
@@ -398,7 +398,7 @@
             "nombre": "Resistencia",
             "id": "resistencia"
         },
-        "precio": 9600
+        "precio": 12600
     },
     {
         "id": "resistencia-08",
@@ -408,7 +408,7 @@
             "nombre": "Resistencia",
             "id": "resistencia"
         },
-        "precio": 9600
+        "precio": 14600
     },
     {
         "id": "resistencia-08",
@@ -418,7 +418,7 @@
             "nombre": "Resistencia",
             "id": "resistencia"
         },
-        "precio": 9600
+        "precio": 12600
     },
     {
         "id": "resistencia-08",
@@ -428,7 +428,7 @@
             "nombre": "Resistencia",
             "id": "resistencia"
         },
-        "precio": 9600
+        "precio": 12600
     }
     
 ]
